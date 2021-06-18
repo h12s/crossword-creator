@@ -14,9 +14,10 @@ Sample Crosswords:
 
 ![sample2](https://user-images.githubusercontent.com/76884971/122624067-959be780-d06c-11eb-957c-e50c342b8820.JPG)
 
-![sample3](https://user-images.githubusercontent.com/76884971/122624071-97fe4180-d06c-11eb-9e91-f79803263823.JPG)
+![sample3](https://user-images.githubusercontent.com/76884971/122624190-0b07b800-d06d-11eb-9077-9146fdffecd2.JPG)
 
 ![sample4](https://user-images.githubusercontent.com/76884971/122624073-9af93200-d06c-11eb-89e6-a94e75338072.JPG)
+
 
 
 
