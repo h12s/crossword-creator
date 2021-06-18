@@ -1,4 +1,4 @@
-import tkinter as tk         #add size of crossword, and display words on side
+import tkinter as tk         
 
 def display():
     root = tk.Tk()
