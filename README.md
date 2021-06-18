@@ -1,4 +1,4 @@
-# Crossword-Maker
+# Crossword-Generator
 
 Description: This app creates a valid crossword puzzle out of as many words as possible that the user enters through a command line and graphically displays it. The app can also                give reasons to each word that could not fit into the board. 
 
