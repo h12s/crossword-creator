@@ -8,7 +8,7 @@ Use: Just follow the prompts:
 
 ![prompt](https://user-images.githubusercontent.com/76884971/122623818-9d0ec100-d06b-11eb-941c-b67b5676a38a.JPG)
 
-Samples:
+Examples:
 
 ![sample1](https://user-images.githubusercontent.com/76884971/122624065-916fca00-d06c-11eb-8cd4-1f608812995e.JPG)
 
