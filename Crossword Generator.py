@@ -323,27 +323,3 @@ while True:
     print()
 
 
-#samples
-#crossword(["abcdefghijklmnopqrst",
-#           "fffffggg",
-#           "ttttttttttuuuuuuuuuz",
-#           "yzzz",
-#           "qqqqqqqqqqqqqqy",
-#           "xxxxxxxxxaaaaaaa",
-#           "aaaaggg",
-#           "xxwwww",
-#           "wwwwvvvvve",
-#           "vvvvvvvvvvvvq",
-#           "mat",
-#           "mat",
-#           "make",
-#           "make",
-#           "maker",
-#           "remake",
-#           "hat"], 20)
-
-#crossword(['clowning', 'apple', 'addle', 'loonular', 'shaun', 'solar', 'astronaut', 'loonoolar', 'prove', 'across', 'no'], 20)
-#crossword(['clowning', 'apple', 'add', 'evening', 'eve', 'good', 'gattling', 'night', 'now', 'winner', 'the', 'game', 'hen', 'engine', 'entire', 'wow', 'mansion', 'wega', 'wega'], 20)
-#crossword(['clowning', 'apple', 'addle', 'loon', 'incline', 'plan', 'zoo'], 20)
-
-
